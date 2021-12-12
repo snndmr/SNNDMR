@@ -51,7 +51,7 @@
 
 <hr>
 
-<div style="text-align: center;" >
+<div style="text-align: center; margin: 0 auto;" >
 	<a href="https://github.com/snndmr/Tubitak-UAV">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Tubitak-UAV" width="40%"/>
 	</a>
