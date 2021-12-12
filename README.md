@@ -1,5 +1,5 @@
 
-### Hi, I'm Sinan 👋
+### Hi, I'm Sinan 
 
 <p style="text-align: justify">
 	Innovative and passionate Computer Engineer with a proven track record of identifying issues and achieving solutions to increase system efficiency. Experienced in repairing, developing and improving systems, and committed to achieving the highest level of client satisfaction possible.
@@ -51,27 +51,23 @@
 
 <hr>
 
-<a href="https://github.com/snndmr/Tubitak-UAV">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Tubitak-UAV" width="49%"/>
-</a>
-<a href="https://github.com/snndmr/RepoStock">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=RepoStock" width="49%"/>
-</a>
-
-<blank></blank>
-
-<a href="https://github.com/snndmr/Fingers">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Fingers" width="49%"/>
-</a>
-<a href="https://github.com/snndmr/Sudoku-Solver-GA">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Sudoku-Solver-GA" width="49%"/>
-</a>
-
-<blank></blank>
-
-<a href="https://github.com/snndmr/3D-Clock">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=3D-Clock" width="49%"/>
-</a>
-<a href="https://github.com/snndmr/Vocabulary">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Vocabulary" width="49%"/>
-</a>
+<div style="text-align: center;" >
+	<a href="https://github.com/snndmr/Tubitak-UAV">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Tubitak-UAV" width="40%"/>
+	</a>
+	<a href="https://github.com/snndmr/RepoStock">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=RepoStock" width="50%"/>
+	</a>
+	<a href="https://github.com/snndmr/Fingers">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Fingers" width="40%"/>
+	</a>
+	<a href="https://github.com/snndmr/Sudoku-Solver-GA">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Sudoku-Solver-GA" width="40%"/>
+	</a>
+	<a href="https://github.com/snndmr/3D-Clock">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=3D-Clock" width="40%"/>
+	</a>
+	<a href="https://github.com/snndmr/Vocabulary">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Vocabulary" width="40%"/>
+	</a>
+</div>
