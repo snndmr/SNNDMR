@@ -56,7 +56,7 @@
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Tubitak-UAV" width="40%"/>
 	</a>
 	<a href="https://github.com/snndmr/RepoStock">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=RepoStock" width="50%"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=RepoStock" width="40%"/>
 	</a>
 	<a href="https://github.com/snndmr/Fingers">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snndmr&repo=Fingers" width="40%"/>
