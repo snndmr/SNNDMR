@@ -1,4 +1,3 @@
-
 ### Hi, I'm Sinan 
 
 <p style="text-align: justify">
