@@ -17,16 +17,16 @@
     <tbody>
         <tr>
             <td colspan=2 align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true" />
+                <img style="margin: 10px; width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true" />
             </td>
         </tr>
         <tr>
-            <td rowspan=1>
-                <img
+            <td rowspan=1 >
+                <img style="margin: 10px;"
                     src="https://github-readme-stats.vercel.app/api?username=snndmr&include_all_commits=true&show_icons=true" />
             </td>
             <td rowspan=1>
-                <img
+                <img  style="margin: 10px;"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=snndmr&layout=compact&langs_count=8" />
             </td>
         </tr>
