@@ -10,16 +10,20 @@
 - 📫 Feel free to send an [email](mailto:snndmr@protonmail.com) anytime.
 
 <br/>
+<hr>
+<br/>
 
 <div style="text-align: center;">
-    <img style="object-fit: cover; width: 34%;"
+    <img style="object-fit: cover; width: 34%; height: 120px;"
         src="https://github-readme-stats.vercel.app/api?username=snndmr&include_all_commits=true&show_icons=true" />
-    <img style="object-fit: cover; width: 34%;" flex-shrink: 0; width="30%"
+    <img style="object-fit: cover; width: 34%; height: 120px;" flex-shrink: 0; width="30%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true" />
-    <img style="object-fit: cover; width: 24.75%;" flex-shrink: 0; width="30%"
+    <img style="object-fit: cover; width: 24.75%; height: 120px;" flex-shrink: 0; width="30%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=snndmr&layout=compact&langs_count=8" />
 </div>
 
+<br/>
+<hr>
 <br/>
 
 | **#** | **Technologies** |
