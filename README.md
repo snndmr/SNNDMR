@@ -13,8 +13,8 @@
 <hr>
 <br>
 
-<div style="margin: 0 100px; width: 50%; text-align: center;">
-    <img
+<div style="text-align: center;">
+    <img style="margin: 100px;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true" />
 </div>
 <div style="margin-left: 100px; margin-right: 100px; text-align: center;">
