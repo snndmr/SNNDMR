@@ -9,18 +9,24 @@
 - 🌱 I’m currently learning GoLang, MongoDB, Express.js, React.js and Node.js.
 - 📫 Feel free to send an [email](mailto:snndmr@protonmail.com) anytime.
 
-<br/>
+<br>
+<hr>
+<br>
 
 <div style="text-align: center;">
-    <img style="object-fit: cover; width: 34%; flex-shrink: 0;"
-        src="https://github-readme-stats.vercel.app/api?username=snndmr&include_all_commits=true&show_icons=true" />
-    <img style="object-fit: cover; width: 34%; flex-shrink: 0;"
+    <img style="width: 50%;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true" />
-    <img style="object-fit: cover; width: 23%; flex-shrink: 0;"
+</div>
+<div style="margin-left: 100px; margin-right: 100px; text-align: center;">
+    <img style="width: 57%;"
+        src="https://github-readme-stats.vercel.app/api?username=snndmr&include_all_commits=true&show_icons=true" />
+    <img style="width: 41.4%;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=snndmr&layout=compact&langs_count=8" />
 </div>
 
-<br/>
+<br>
+<hr>
+<br>
 
 | **#** | **Technologies** |
 | ---: | :--- |
