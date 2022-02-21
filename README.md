@@ -16,7 +16,7 @@
         src="https://github-readme-stats.vercel.app/api?username=snndmr&include_all_commits=true&show_icons=true" />
     <img style="object-fit: cover; width: 34%; flex-shrink: 0;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true" />
-    <img style="object-fit: cover; width: 24.75%; flex-shrink: 0;"
+    <img style="object-fit: cover; width: 23%; flex-shrink: 0;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=snndmr&layout=compact&langs_count=8" />
 </div>
 
