@@ -16,7 +16,7 @@
 <table>
     <tbody>
         <tr>
-            <td colspan=2 style="text-align: center;">
+            <td colspan=2 align="center">
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true" />
             </td>
         </tr>
@@ -33,8 +33,6 @@
     </tbody>
 </table>
 
-<br>
-<hr>
 <br>
 
 | **#** | **Technologies** |
