@@ -12,7 +12,6 @@
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true"/>
 </div>
-<br>
 <div style="text-align: center">
 	<img width="57%" src="https://github-readme-stats.vercel.app/api?username=snndmr&include_all_commits=true&show_icons=true" />
 	<img width="41.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snndmr&layout=compact&langs_count=8" />
