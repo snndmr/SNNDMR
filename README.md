@@ -9,8 +9,8 @@
 
 <hr>
 
-<div>
-	<img style="display:block; margin:auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true"/>
+<div style="margin: 0 10%">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=snndmr&show_icons=true"/>
 </div>
 <br>
 <div style="margin: 0 auto; text-align: center">
