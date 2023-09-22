@@ -1,12 +1,12 @@
-### Hi, I'm Sinan! 👋
+## Hi, I'm Sinan! 👋
 
 Experienced computer engineer dedicated to enhancing system efficiency through problem-solving and innovation. Specializing in system repair, development, and optimization, and committed to continuous improvement.
 
-#### 🌱 Currently Learning
+### 🌱 Currently Learning
 
 Focusing on learning Java and Spring Boot to expand my skills.
 
-#### 📫 Contact Me
+### 📫 Contact Me
 
 Feel free to reach out via [email](mailto:snndmr@protonmail.com) anytime.
 
@@ -23,9 +23,9 @@ Feel free to reach out via [email](mailto:snndmr@protonmail.com) anytime.
 
 ---
 
-### 💻 Technologies
+## 💻 Technologies
 
-##### 💬 Languages
+#### 💬 Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +35,7 @@ Feel free to reach out via [email](mailto:snndmr@protonmail.com) anytime.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-##### 🚀 Frameworks, Platforms, and Libraries
+#### 🚀 Frameworks, Platforms, and Libraries
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -47,31 +47,31 @@ Feel free to reach out via [email](mailto:snndmr@protonmail.com) anytime.
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-##### 🖥️ Operating Systems
+#### 🖥️ Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-##### 🛠️ IDEs/Editors
+#### 🛠️ IDEs/Editors
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-##### 🗃️ Databases
+#### 🗃️ Databases
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-##### 📂 Version Control
+#### 📂 Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
-##### 🤖 Other
+#### 🤖 Other
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
